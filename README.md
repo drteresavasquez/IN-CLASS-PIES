@@ -1,2 +1,1 @@
-# IN-CLASS-PIES
-Created with CodeSandbox
+# js-intro
